@@ -1,0 +1,885 @@
+<billmonk>
+  <account id="827df54418">
+    <contacts>
+      <contact type="EMAIL" primary="true">warunsl@gmail.com</contact>
+    </contacts>
+    <settings>
+      <language>en_US</language>
+      <currency>USD</currency>
+      <date_format>MMDDYYYY</date_format>
+    </settings>
+    <profile>
+      <name>Varun S L</name>
+      <birthday show="false"></birthday>
+      <zipcode></zipcode>
+      <gender show="false"></gender>
+      <about_me></about_me>
+      <websites></websites>
+    </profile>
+  </account>
+  <friends>
+    <friend name="nishan.dodagoudar@gmail.com" id="fc835b11c9"/>
+    <friend name="amogh.n25@gmail.com" id="6ebdd270bd"/>
+    <friend name="samkatti27@gmail.com" id="f06d084bde"/>
+    <friend name="Jayvir Chadha" id="9f461de5be"/>
+    <friend name="nishan" id="9f79e5d2f7"/>
+    <friend name="shrutimansur@gmail.com" id="281ad92e26"/>
+    <friend name="anishpatil2401@gmail.com" id="d41176aff4"/>
+  </friends>
+  <bills>
+    <bill type="SharedReceipt" date="2012-08-12" currency="USD" description="Starbucks" amount="700" id="1fd0fccd8b">
+      <payers>
+        <payer friend_id="827df54418" amount="700"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="350">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="350">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-12" currency="USD" description="Bus trip from Hoover to McArthur" amount="200" id="4fe1b4edcc">
+      <payers>
+        <payer friend_id="6ebdd270bd" amount="200"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+        <tag>kehkelenge</tag>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="50">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="50">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="50">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="50">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-12" currency="USD" description="Bus trip from McArthur lake to Hoover" amount="600" id="40692937c7">
+      <payers>
+        <payer friend_id="827df54418" amount="600"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+        <tag>kehkelenge</tag>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="150">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="150">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="150">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="150">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-12" currency="USD" description="Photos at Madame Tussauds" amount="3807" id="41e717b542">
+      <payers>
+        <payer friend_id="827df54418" amount="3807"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+        <tag>kehkelenge</tag>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="952">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="952">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="952">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="951">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-12" currency="USD" description="Entry at Madame Tussauds" amount="8380" id="b96909f80a">
+      <payers>
+        <payer friend_id="827df54418" amount="4190"/>
+        <payer friend_id="fc835b11c9" amount="4190"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+        <tag>kehkelenge</tag>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="2095">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="2095">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="2095">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="2095">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-11" currency="USD" description="Lunch at Pizza Hut" amount="2000" id="c39303e7aa">
+      <payers>
+        <payer friend_id="827df54418" amount="1200"/>
+        <payer friend_id="fc835b11c9" amount="800"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+        <tag>kehkelenge</tag>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="500">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="500">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="500">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="500">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-11" currency="USD" description="Dark Knight" amount="2400" id="d3330734b4">
+      <payers>
+        <payer friend_id="827df54418" amount="200"/>
+        <payer friend_id="f06d084bde" amount="2200"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+        <tag>kehkelenge</tag>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="600">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="600">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="600">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="600">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-11" currency="USD" description="Speakers" amount="2367" id="2ff9da45db">
+      <payers>
+        <payer friend_id="6ebdd270bd" amount="2367"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+        <tag>kehkelenge</tag>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="592">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="592">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="592">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="591">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-10" currency="USD" description="Groceries at Manas and Ralphs" amount="7295" id="fc81facd6a">
+      <payers>
+        <payer friend_id="827df54418" amount="7295"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+        <tag>kehkelenge</tag>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="1824">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="1824">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="1824">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="1823">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-10" currency="USD" description="Lunch at Subway" amount="1806" id="470ba2967b">
+      <payers>
+        <payer friend_id="f06d084bde" amount="1806"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+        <tag>kehkelenge</tag>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="452">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="452">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="451">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="451">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-09" currency="USD" description="Lunch at Subway" amount="2168" id="b7bcb28715">
+      <payers>
+        <payer friend_id="6ebdd270bd" amount="2168"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+        <tag>kehkelenge</tag>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="542">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="542">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="542">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="542">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-08" currency="USD" description="Pizza lunch" amount="2000" id="c8f4d12731">
+      <payers>
+        <payer friend_id="f06d084bde" amount="2000"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+        <tag>kehkelenge</tag>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="500">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="500">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="500">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="500">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-08" currency="USD" description="Groceries at Superior" amount="2801" id="43b1cab9da">
+      <payers>
+        <payer friend_id="f06d084bde" amount="2801"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+        <tag>kehkelenge</tag>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="701">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="700">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="700">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="700">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="LoanReceipt" date="2012-08-08" currency="USD" description="Lip balm" amount="200" id="fc2b7d5ed8">
+      <payers>
+        <payer friend_id="f06d084bde" amount="200"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="200">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-08" currency="USD" description="Ralphs grocery" amount="14075" id="8ab359d15b">
+      <payers>
+        <payer friend_id="f06d084bde" amount="14075"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="3519">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="3519">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="3519">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="3518">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-07" currency="USD" description="Pizza lunch" amount="2200" id="601ee6c2f5">
+      <payers>
+        <payer friend_id="f06d084bde" amount="2200"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="550">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="550">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="550">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="550">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-07" currency="USD" description="Fridge" amount="15000" id="be650f189c">
+      <payers>
+        <payer friend_id="6ebdd270bd" amount="10000"/>
+        <payer friend_id="f06d084bde" amount="5000"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="3750">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="3750">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="3750">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="3750">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-07" currency="USD" description="Dinner at 23rd street" amount="4000" id="87b254db96">
+      <payers>
+        <payer friend_id="f06d084bde" amount="4000"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="1000">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="1000">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="1000">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="1000">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-06" currency="USD" description="Lunch at pizza store" amount="2200" id="7aafd967c9">
+      <payers>
+        <payer friend_id="827df54418" amount="2200"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="1100">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="1100">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-06" currency="USD" description="Starbucks" amount="800" id="da63545e66">
+      <payers>
+        <payer friend_id="f06d084bde" amount="800"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="400">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="400">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-06" currency="USD" description="Trip to department of water and power and the deposit" amount="22500" id="8f30ef8eb1">
+      <payers>
+        <payer friend_id="827df54418" amount="2000"/>
+        <payer friend_id="f06d084bde" amount="20500"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="5625">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="5625">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="5625">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="5625">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-05" currency="USD" description="Dinner at Burger King" amount="2626" id="064251d748">
+      <payers>
+        <payer friend_id="fc835b11c9" amount="2626"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="657">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="657">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="656">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="656">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-05" currency="USD" description="Pizza for lunch at the new apartment" amount="2200" id="c617c66c03">
+      <payers>
+        <payer friend_id="827df54418" amount="100"/>
+        <payer friend_id="fc835b11c9" amount="2100"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="550">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="550">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="550">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="550">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-05" currency="USD" description="Late night Walmart purchases" amount="49819" id="5feac19ab7">
+      <payers>
+        <payer friend_id="fc835b11c9" amount="49819"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="12455">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="12455">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="12455">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="12454">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-04" currency="USD" description="Zipcar rented by Koushik for Walmart trip" amount="2400" id="086d4d6ae7">
+      <payers>
+        <payer friend_id="6ebdd270bd" amount="2400"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="600">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="600">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="600">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="600">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-04" currency="USD" description="Dinner at Manas" amount="2200" id="3d23201c18">
+      <payers>
+        <payer friend_id="827df54418" amount="2200"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="1100">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="1100">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-04" currency="USD" description="Breakfast at subway" amount="892" id="382cee8b00">
+      <payers>
+        <payer friend_id="fc835b11c9" amount="892"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="446">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="446">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="LoanReceipt" date="2012-08-03" currency="USD" description="Calling card" amount="579" id="51ed3f546a">
+      <payers>
+        <payer friend_id="827df54418" amount="579"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="fc835b11c9" amount="579">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-03" currency="USD" description="Deposit money and first month rent for the apartment." amount="270300" id="5baa7c4e20">
+      <payers>
+        <payer friend_id="827df54418" amount="80200"/>
+        <payer friend_id="6ebdd270bd" amount="80000"/>
+        <payer friend_id="fc835b11c9" amount="80100"/>
+        <payer friend_id="f06d084bde" amount="30000"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="67575">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="67575">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="67575">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="67575">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-03" currency="USD" description="Lunch at Californian pizza" amount="2732" id="9485553d13">
+      <payers>
+        <payer friend_id="f06d084bde" amount="2732"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="911">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="911">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="910">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-02" currency="USD" description="Application money for #10, 2360, Portland Street" amount="2500" id="0a0251806a">
+      <payers>
+        <payer friend_id="827df54418" amount="2000"/>
+        <payer friend_id="fc835b11c9" amount="500"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="625">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="625">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="625">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="625">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-02" currency="USD" description="Various photocopies at the library" amount="1000" id="5be2a59853">
+      <payers>
+        <payer friend_id="827df54418" amount="300"/>
+        <payer friend_id="6ebdd270bd" amount="300"/>
+        <payer friend_id="fc835b11c9" amount="200"/>
+        <payer friend_id="f06d084bde" amount="200"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="250">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="250">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="250">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="250">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-02" currency="USD" description="Dinner at SubWay" amount="1865" id="a47018ae80">
+      <payers>
+        <payer friend_id="fc835b11c9" amount="1865"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="467">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="466">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="466">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="466">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="LoanReceipt" date="2012-08-02" currency="USD" description="18 for the super shuttle and 3 from the frankfurt airport" amount="2100" id="38f9e17cd1">
+      <payers>
+        <payer friend_id="827df54418" amount="2100"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="281ad92e26" amount="2100">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-01" currency="USD" description="Lunch at Subway" amount="2300" id="5cd74d6ab2">
+      <payers>
+        <payer friend_id="f06d084bde" amount="2300"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="460">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="460">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="460">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="460">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="281ad92e26" amount="460">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="SharedReceipt" date="2012-08-01" currency="USD" description="Dinner at SubWay" amount="1696" id="60df1c4b9a">
+      <payers>
+        <payer friend_id="827df54418" amount="1696"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="424">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="6ebdd270bd" amount="424">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="fc835b11c9" amount="424">
+          <split type="even" amount="1"/>
+        </payee>
+        <payee friend_id="f06d084bde" amount="424">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="LoanReceipt" date="2012-08-01" currency="USD" description="$3 from the frankfurt airport and remaining from yesterdays subway" amount="724" id="2d3385cb4a">
+      <payers>
+        <payer friend_id="827df54418" amount="724"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="fc835b11c9" amount="724">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="LoanReceipt" date="2012-07-31" currency="USD" description="Pizza" amount="362" id="baf2be6ea0">
+      <payers>
+        <payer friend_id="827df54418" amount="362"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="6ebdd270bd" amount="362">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="LoanReceipt" date="2012-07-31" currency="USD" description="The food we ordered the other day from the chineese restaurant" amount="720" id="e0bc0bd030">
+      <payers>
+        <payer friend_id="d41176aff4" amount="720"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="720">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+    <bill type="LoanReceipt" date="2012-07-30" currency="USD" description="Dinner at chipotle" amount="600" id="fedc7a6740">
+      <payers>
+        <payer friend_id="9f461de5be" amount="600"/>
+      </payers>
+      <comments>
+      </comments>
+      <tags>
+      </tags>
+      <payees>
+        <payee friend_id="827df54418" amount="600">
+          <split type="even" amount="1"/>
+        </payee>
+      </payees>
+    </bill>
+  </bills>
+  <library>
+  </library>
+</billmonk>
