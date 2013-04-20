@@ -1,0 +1,7 @@
+The code takes in the billmonk exported data, parses it and outputs a nested hash. The output is not formatted and is in the raw form. So is the input (does not read the file to be parsed from the command line). 
+
+You would need to edit the line that opens the file and add the name of file to be parsed manually. Then run the script with
+
+ruby BillmonkParser.rb
+
+The output nested hash is of the form @billmonk_matrix[person1][person2], where @billmonk_matrix[person1][person2] would be the amount person1 owes person2
