@@ -1,0 +1,3 @@
+This perl script splits a standard Unix ODBC trace based on the thread ID or process ID making it easier to analyse the traces. 
+
+This script assumes that the input ODBC trace is well formed.
