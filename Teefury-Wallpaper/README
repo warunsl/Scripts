@@ -1,0 +1,5 @@
+Changes the desktop background of a Mac computer with the days tee image of the teefury website
+
+All you would need to do is to save the teefury.rb file on your system and add this cron rule 
+
+00 */22 *  * * ruby <location-of-the-script>/teefury.rb
